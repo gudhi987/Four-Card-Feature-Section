@@ -18,14 +18,14 @@ Your users should:
 
 ### Screenshot
 
-![Desktop layout preview](./four-card-feature-master/Final_Desktop_layout_Screenshot.png)
+![Desktop layout preview](./Final_Desktop_layout_Screenshot.png)
 
-![Mobile layout preview](Final_Mobile_Layout_Screenshot.png)
+![Mobile layout preview](./Final_Mobile_Layout_Screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/gudhi987/Four-Card-Feature-Section/tree/master]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/gudhi987/Four-Card-Feature-Section/tree/master
+- Live Site URL: https://poetic-kulfi-3cdd57.netlify.app/
 
 ## My process
 
