@@ -18,9 +18,9 @@ Your users should:
 
 ### Screenshot
 
-- Desktop layout preview : [Final_Desktop_layout_Screenshot.png]
+![Desktop layout preview](./four-card-feature-master/Final_Desktop_layout_Screenshot.png)
 
-- Mobile layout preview : [Final_Mobile_Layout_Screenshot.png]
+![Mobile layout preview](Final_Mobile_Layout_Screenshot.png)
 
 ### Links
 
