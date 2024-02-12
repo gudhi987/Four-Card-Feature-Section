@@ -25,7 +25,7 @@ Your users should:
 ### Links
 
 - Solution URL: https://github.com/gudhi987/Four-Card-Feature-Section/tree/master
-- Live Site URL: https://poetic-kulfi-3cdd57.netlify.app/
+- Live Site URL: https://four-card-feature-section-jagadeesh.netlify.app
 
 ## My process
 
