@@ -42,6 +42,6 @@ Your users should:
 ### What I learned
 
 During the time of building this project, I revised the basic html tags and css styles and 
-become more familiar with css-grid, css-flexbox, media queries and others.
+become more familiar with css-grid, css-flexbox, media queries and others
 
 
